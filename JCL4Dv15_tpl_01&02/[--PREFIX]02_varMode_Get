@@ -1,0 +1,1 @@
+//[--PREFIX]02_varMode_Get//method_generator//[--TABLE] モード変数の値を取得C_TEXT($0)$0:=v[--PREFIX]02_varMode

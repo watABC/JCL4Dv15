@@ -1,0 +1,1 @@
+//[--PREFIX]_Add_byInitValues//method_generator [--DATE]//[--TABLE] レコード追加、初期値代入C_LONGINT($0;$[--PREFIX]_id)//新規レコード作成$[--PREFIX]_id:=SN_SerialNumber ("[--PREFIX]_ID";"[--TABLE]")CREATE RECORD([[--TABLE]])[[--TABLE]][--FIELD]:=[--INITVALUE][[--TABLE]][--PREFIX]_ID:=$[--PREFIX]_idSAVE RECORD([[--TABLE]])$0:=$[--PREFIX]_id

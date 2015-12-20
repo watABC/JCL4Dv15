@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<CacheFiles xmlns="http://namespace/reserved/2004/cache">
+
+  <File>
+    <ArchiveName>Images.4darchive</ArchiveName>
+    <Name>Images</Name>
+    <Type>Folder</Type>
+    <Contents>2268733663016899608226873366301678037645710284</Contents>
+  </File>
+
+  <File>
+    <ArchiveName>calender60x60.4darchive</ArchiveName>
+    <Name>calender60x60.png</Name>
+    <Type>File</Type>
+    <Contents>1308947333000000001309204075850470946269</Contents>
+  </File>
+
+  <File>
+    <ArchiveName>calender40x40.4darchive</ArchiveName>
+    <Name>calender40x40.png</Name>
+    <Type>File</Type>
+    <Contents>1308947333000000001309204075848910944325</Contents>
+  </File>
+
+  <File>
+    <ArchiveName>calendar.4darchive</ArchiveName>
+    <Name>calendar.png</Name>
+    <Type>File</Type>
+    <Contents>130910075140000000130920407584735094146654</Contents>
+  </File>
+
+  <File>
+    <ArchiveName>b_end.4darchive</ArchiveName>
+    <Name>b_end.png</Name>
+    <Type>File</Type>
+    <Contents>13089475130000000013092046751223367424078</Contents>
+  </File>
+
+  <version>11</version>
+
+</CacheFiles>

@@ -1,0 +1,1 @@
+//%attributes = {"lang":"en"} comment added and reserved by 4D.//A02_btnOK//20150830 Programmer's name// OKボタンメソッドC_LONGINT($isValid)$isValid:=LO_valid_byName_byPassword (vA02_fldUserName;vA02_fldPassword)If ($isValid=1)A02_varValid_set ($isValid)ACCEPTElse JCL_dlg_Inform ("ログインエラー";"そのユーザ名とパスワードは登録されていません";"OK")End if 

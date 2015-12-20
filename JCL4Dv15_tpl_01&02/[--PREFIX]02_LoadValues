@@ -1,0 +1,1 @@
+//[--PREFIX]02_LoadValues//method_generator [--DATE]//[--TABLE] レコードの値をプロセス変数にロードv[--PREFIX]02_var[--FIELD]:=[[--TABLE]][--FIELD]

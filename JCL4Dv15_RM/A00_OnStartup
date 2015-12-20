@@ -1,0 +1,1 @@
+//%attributes = {"lang":"en"} comment added and reserved by 4D.//A00_OnStartup//20150830 Programmer's name//メイン画面のプロセスを開始C_LONGINT($main_proc)//新しいプロセスを開始//$main_proc:=New process("A01_Menu";128*1024;"A01_Menu";*)$main_proc:=New process("A00_main";128*1024;"A00_main";*)

@@ -1,0 +1,1 @@
+//[--PREFIX]01_lst[--PREFIX]_Make//method_generator [--DATE]//[--TABLE] リストボックス配列作成READ ONLY([[--TABLE]])QUERY([[--TABLE]];[[--TABLE]][--PREFIX]_DEL_FLAG=0)ORDER BY([[--TABLE]];[[--TABLE]][--PREFIX]_ID;>)FIRST RECORD([[--TABLE]])SELECTION TO ARRAY([[--TABLE]][--FIELD];v[--PREFIX]01_lst[--FIELD])

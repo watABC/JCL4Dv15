@@ -1,0 +1,1 @@
+//%attributes = {"lang":"en"} comment added and reserved by 4D.//A02_Login//20150830 Programmer's name//ログインダイアログを表示C_LONGINT($0;$dlg_ok)//プロセス変数A02_DefInit A02_varValid_set (0)//画面表示$dlg_ok:=A02_Display $0:=$dlg_ok

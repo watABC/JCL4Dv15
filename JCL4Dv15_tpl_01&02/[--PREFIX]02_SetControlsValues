@@ -1,0 +1,1 @@
+//[--PREFIX]02_SetControlsValues//method_generator [--DATE]//[--TABLE] フォーム上のオブジェクト制御C_TEXT($mode)//削除ボタン制御$mode:=[--PREFIX]02_varMode_Get If ($mode="add")v[--PREFIX]02_varTitle:="[--TABLE] 入力"JCL_btn_SetVisible (->v[--PREFIX]02_btnDelete;False)Else v[--PREFIX]02_varTitle:="[--TABLE] 編集"JCL_btn_SetVisible (->v[--PREFIX]02_btnDelete;True)End if 

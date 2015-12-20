@@ -1,0 +1,1 @@
+//%attributes = {"shared":true,"lang":"en"} comment added and reserved by 4D.//JCL_lst_SelectedCount//JCL_lst_GetSelectedCount//20100623 wat//リストボックスに選択されている行が何行あるか返す。汎用メソッドC_POINTER($1;$inListBoxPtr)$inListBoxPtr:=$1//ターゲットとなるリストボックスのブーリアン配列C_LONGINT($0;$cnt)$cnt:=Count in array($inListBoxPtr->;True)$0:=$cnt

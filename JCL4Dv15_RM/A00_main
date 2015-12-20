@@ -1,0 +1,1 @@
+//%attributes = {"lang":"en"} comment added and reserved by 4D.//A00_main//20150830 Programmer's name//メインメソッド//メニューバーを適用SET MENU BAR(2)$isValid:=A00_Authentication If ($isValid=1)//メイン画面表示A01_Menu Else //QUIT 4D(0)End if 

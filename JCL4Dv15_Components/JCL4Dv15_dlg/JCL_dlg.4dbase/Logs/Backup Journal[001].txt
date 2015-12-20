@@ -1,0 +1,87 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:jiro:Desktop:jiro_dlg.4dbase:jiro_dlg[0001].4BK
+Attachment(s): 
+	Macintosh HD:Users:jiro:Desktop:jiro_dlg.4dbase:jiro_dlg.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:jiro:Desktop:jiro_dlg.4dbase:jiro_dlg.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:jiro:Desktop:jiro_dlg.4dbase:jiro_dlg.4DIndx [NOT FOUND]
+Scheduled 2015/08/18 15:20
+Starting 2015/08/18 15:20
+Ending 2015/08/18 15:20
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:jiro:Desktop:Projects:yabe:20150826:dwdb_20150826-8:dwdb.4dbase:Components:jiro_dlg.4dbase:jiro_dlg[0001].4BK
+Creating log backup : Macintosh HD:Users:jiro:Desktop:Projects:yabe:20150826:dwdb_20150826-8:dwdb.4dbase:Components:jiro_dlg.4dbase:jiro_dlg[0000].4BL
+Attachment(s): 
+	Macintosh HD:Users:jiro:Desktop:Projects:yabe:20150826:dwdb_20150826-8:dwdb.4dbase:Components:jiro_dlg.4dbase:jiro_dlg.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:jiro:Desktop:Projects:yabe:20150826:dwdb_20150826-8:dwdb.4dbase:Components:jiro_dlg.4dbase:jiro_dlg.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:jiro:Desktop:Projects:yabe:20150826:dwdb_20150826-8:dwdb.4dbase:Components:jiro_dlg.4dbase:jiro_dlg.4DIndx [NOT FOUND]
+Scheduled 2015/09/02 9:34
+Starting 2015/09/02 9:34
+Ending 2015/09/02 9:34
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:jiro:Desktop:dwdb.4dbase:Components:jiro_dlg.4dbase:jiro_dlg[0001].4BK
+Creating log backup : Macintosh HD:Users:jiro:Desktop:dwdb.4dbase:Components:jiro_dlg.4dbase:jiro_dlg[0000].4BL
+Attachment(s): 
+	Macintosh HD:Users:jiro:Desktop:dwdb.4dbase:Components:jiro_dlg.4dbase:jiro_dlg.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:jiro:Desktop:dwdb.4dbase:Components:jiro_dlg.4dbase:jiro_dlg.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:jiro:Desktop:dwdb.4dbase:Components:jiro_dlg.4dbase:jiro_dlg.4DIndx [NOT FOUND]
+Scheduled 2015/09/02 11:20
+Starting 2015/09/02 11:20
+Ending 2015/09/02 11:20
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:wat:Desktop:jiro_dlg.4dbase:jiro_dlg[0001].4BK
+Creating log backup : Macintosh HD:Users:wat:Desktop:jiro_dlg.4dbase:jiro_dlg[0000].4BL
+Attachment(s): 
+	Macintosh HD:Users:wat:Desktop:jiro_dlg.4dbase:jiro_dlg.4DSyncHeader [NOT FOUND]
+	Macintosh HD:Users:wat:Desktop:jiro_dlg.4dbase:jiro_dlg.4DSyncData [NOT FOUND]
+	Macintosh HD:Users:wat:Desktop:jiro_dlg.4dbase:jiro_dlg.4DIndx [NOT FOUND]
+Scheduled 2015/09/10 15:50
+Starting 2015/09/10 15:50
+Ending 2015/09/10 15:50
+
+*** Full Backup
+Creating archive : Macintosh HD:current_projects:4D_projects:4Dアプリ開発ガイド:work:JCL4D:JCL_dlg.4dbase:jiro_dlg[0001].4BK
+Creating log backup : Macintosh HD:current_projects:4D_projects:4Dアプリ開発ガイド:work:JCL4D:JCL_dlg.4dbase:jiro_dlg[0000].4BL
+Attachment(s): 
+	Macintosh HD:current_projects:4D_projects:4Dアプリ開発ガイド:work:JCL4D:JCL_dlg.4dbase:jiro_dlg.4DSyncHeader [NOT FOUND]
+	Macintosh HD:current_projects:4D_projects:4Dアプリ開発ガイド:work:JCL4D:JCL_dlg.4dbase:jiro_dlg.4DSyncData [NOT FOUND]
+	Macintosh HD:current_projects:4D_projects:4Dアプリ開発ガイド:work:JCL4D:JCL_dlg.4dbase:jiro_dlg.4DIndx [NOT FOUND]
+Scheduled 2015/09/11 11:16
+Starting 2015/09/11 11:16
+Ending 2015/09/11 11:16
+
+*** Full Backup
+Creating archive : Macintosh HD:current_projects:4D_projects:4Dアプリ開発ガイド:work:JCL4D:JCL_dlg.4dbase:jiro_dlg[0002].4BK
+Creating log backup : Macintosh HD:current_projects:4D_projects:4Dアプリ開発ガイド:work:JCL4D:JCL_dlg.4dbase:jiro_dlg[0001].4BL
+Attachment(s): 
+	Macintosh HD:current_projects:4D_projects:4Dアプリ開発ガイド:work:JCL4D:JCL_dlg.4dbase:jiro_dlg.4DSyncHeader [NOT FOUND]
+	Macintosh HD:current_projects:4D_projects:4Dアプリ開発ガイド:work:JCL4D:JCL_dlg.4dbase:jiro_dlg.4DSyncData [NOT FOUND]
+	Macintosh HD:current_projects:4D_projects:4Dアプリ開発ガイド:work:JCL4D:JCL_dlg.4dbase:jiro_dlg.4DIndx [NOT FOUND]
+Scheduled 2015/09/13 0:00
+Starting 2015/09/24 14:44
+Ending 2015/09/24 14:44
+
+*** Full Backup
+Creating archive : Macintosh HD:current_projects:4D会計ソフト:prj:JCL_dlg.4dbase:jiro_dlg[0001].4BK
+Creating log backup : Macintosh HD:current_projects:4D会計ソフト:prj:JCL_dlg.4dbase:jiro_dlg[0000].4BL
+Attachment(s): 
+	Macintosh HD:current_projects:4D会計ソフト:prj:JCL_dlg.4dbase:jiro_dlg.4DSyncHeader [NOT FOUND]
+	Macintosh HD:current_projects:4D会計ソフト:prj:JCL_dlg.4dbase:jiro_dlg.4DSyncData [NOT FOUND]
+	Macintosh HD:current_projects:4D会計ソフト:prj:JCL_dlg.4dbase:jiro_dlg.4DIndx [NOT FOUND]
+Scheduled 2015/09/24 17:40
+Starting 2015/09/24 17:40
+Ending 2015/09/24 17:40
+
+*** Full Backup
+Creating archive : Macintosh HD:current_projects:4D会計ソフト:work:JCL整理_20150924:JCL_dlg.4dbase:jiro_dlg[0001].4BK
+Creating log backup : Macintosh HD:current_projects:4D会計ソフト:work:JCL整理_20150924:JCL_dlg.4dbase:jiro_dlg[0000].4BL
+Attachment(s): 
+	Macintosh HD:current_projects:4D会計ソフト:work:JCL整理_20150924:JCL_dlg.4dbase:jiro_dlg.4DSyncHeader [NOT FOUND]
+	Macintosh HD:current_projects:4D会計ソフト:work:JCL整理_20150924:JCL_dlg.4dbase:jiro_dlg.4DSyncData [NOT FOUND]
+	Macintosh HD:current_projects:4D会計ソフト:work:JCL整理_20150924:JCL_dlg.4dbase:jiro_dlg.4DIndx [NOT FOUND]
+Scheduled 2015/10/11 15:47
+Starting 2015/10/11 15:47
+Ending 2015/10/11 15:47
+

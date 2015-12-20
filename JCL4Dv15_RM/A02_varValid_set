@@ -1,0 +1,1 @@
+//%attributes = {"lang":"en"} comment added and reserved by 4D.//A02_varValid_set//20150830 Programmer's name//認証フラグに値を代入C_LONGINT($1)vA02_varValid:=$1

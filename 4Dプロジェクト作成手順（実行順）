@@ -1,0 +1,13 @@
+JCL_method_importを作成
+
+JCL_method_importで、JCL4Dv15_Generalを読み込む
+
+コンポーネントを入れる
+
+テーブルを生成JCL_table_Generateを実行
+
+JCL_method_importで、JCL4Dv15_RM
+
+JCL_method_Generateで、JCL4Dv15_tpl_01&02
+
+

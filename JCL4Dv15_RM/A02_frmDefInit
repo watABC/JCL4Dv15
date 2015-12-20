@@ -1,0 +1,1 @@
+//%attributes = {"lang":"en"} comment added and reserved by 4D.//A02_frmDefInit//20150830 Programmer's name//ログインダイアログ用　プロセス変数C_TEXT(vA02_fldUserName)vA02_fldUserName:=""C_TEXT(vA02_fldPassword)vA02_fldPassword:=""

@@ -1,0 +1,1 @@
+//%attributes = {"lang":"en"} comment added and reserved by 4D.//A02_varValid_get//20150830 Programmer's name//認証フラグの値を返す$0:=vA02_varValid

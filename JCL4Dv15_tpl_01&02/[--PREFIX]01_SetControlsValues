@@ -1,0 +1,1 @@
+//[--PREFIX]01_SetControlsValues//method_generator [--DATE]//[--TABLE] フォームオブジェクトを制御//リストボックスの選択行が１つの時に編集ボタンはイネイブルJCL_btn_SetEnable_byListSelect (->v[--PREFIX]01_lst[--PREFIX];->v[--PREFIX]01_btnMod)//リストボックスの選択行が１つ以上の時に削除ボタンはイネイブルJCL_btn_SetEnable_byNSelect (->v[--PREFIX]01_lst[--PREFIX];->v[--PREFIX]01_btnDelete)

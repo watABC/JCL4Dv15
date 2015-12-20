@@ -1,0 +1,1 @@
+//[--PREFIX]02_btnDelete//method_generator v20141003 [--DATE]//[--TABLE] 削除フラグをオンして保存//アラートで確認C_TEXT($title;$msg;$okStr;$cancelStr)$title:="[--TABLE] 削除"$msg:="[--TABLE] を削除します。よろしいですか？"$okStr:="削除"$cancelStr:="キャンセル"$dlg_ok:=Jiro_dlg_YesNo ($title;$msg;$okStr;$cancelStr)if ($dlg_ok=1)v[--PREFIX]02_var[--PREFIX]_DEL_FLAG:=1ACCEPTend if

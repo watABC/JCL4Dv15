@@ -1,0 +1,1 @@
+//[--PREFIX]02_Display//method_generator [--DATE]//[--TABLE] 入力フォームを表示C_LONGINT($wRef)$wref:=Open form window([[--TABLE]];"[--PREFIX]02_Input";Movable form dialog box;Horizontally Centered;Vertically Centered)DIALOG([[--TABLE]];"[--PREFIX]02_Input")CLOSE WINDOW($wRef)$0:=OK

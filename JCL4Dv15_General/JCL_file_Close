@@ -1,0 +1,1 @@
+//%attributes = {"shared":true,"lang":"en"} comment added and reserved by 4D.//JCL_file_Close//20101210 wat new//ファイルを閉じるC_TIME($1;$doc)$doc:=$1//ファイル参照番号CLOSE DOCUMENT($doc)

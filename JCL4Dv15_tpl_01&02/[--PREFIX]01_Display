@@ -1,0 +1,1 @@
+//[--PREFIX]01_Display//method_generator [--DATE]//[--TABLE] 一覧ウインドウ表示C_LONGINT($wref)C_LONGINT($0)C_TEXT($title)$wref:=Open form window([[--TABLE]];"[--PREFIX]01_List";Movable form dialog box;Horizontally Centered;Vertically Centered)$title:="[--PREFIX]01_List"DIALOG([[--TABLE]];"[--PREFIX]01_List")CLOSE WINDOW($Wref)//ウィンドウを閉じる $0:=OK

@@ -1,0 +1,1 @@
+//%attributes = {"shared":true,"lang":"en"} comment added and reserved by 4D.//JCL_lst_Deselect//20100831wat new//デセレクト専用コマンドC_POINTER($1;$inListBoxPtr)$inListBoxPtr:=$1//ターゲットリストボックスのブーリアン配列//デセレクトLISTBOX SELECT ROW($inListBoxPtr->;0;Listbox remove from selection)

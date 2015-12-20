@@ -1,0 +1,1 @@
+//[--PREFIX]02_DefInit//method_generator [--DATE]//[--TABLE] プロセス変数宣言・初期化//モードC_TEXT(v[--PREFIX]02_varMode)//入力用プロセス変数C_[--DATATYPE](v[--PREFIX]02_var[--FIELD])

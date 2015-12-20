@@ -1,0 +1,1 @@
+//%attributes = {"shared":true,"lang":"en"} comment added and reserved by 4D.//JCL_btn_SetVisible//20100708 wat //ボタンを見えなくする、ラッパC_POINTER($1;$inButtonPtr)$inButtonPtr:=$1//イネイブル対象となるボタンのポインタC_BOOLEAN($2;$inBool)$inBool:=$2//ブール値//引数が真ならボタンは表示、偽なら非表示OBJECT SET VISIBLE($inButtonPtr->;$inBool)//ボタンを非表示

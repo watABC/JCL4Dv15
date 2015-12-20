@@ -1,0 +1,1 @@
+//[--PREFIX]02_varMode_Set//method_generator [--DATE]//[--TABLE] モード変数の値を保持C_TEXT($1;$mode)$mode:=$1v[--PREFIX]02_varMode:=$mode

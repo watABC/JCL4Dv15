@@ -1,0 +1,1 @@
+//%attributes = {"lang":"en"} comment added and reserved by 4D.//A01_Display//20150830 Programmer's name//メイン画面をウィンドウに表示C_LONGINT($winRef)//クローズボックスなし、タイトルバー付のウィンドウを作成する//$winRef:=Open window(20;60;486;348;Movable dialog box;"メイン")$winRef:=Open window(20;60;486;348;Plain dialog box;"メイン")DIALOG("A01_Menu")//ウィンドウにフォームを表示するCLOSE WINDOW//ウィンドウを閉じる

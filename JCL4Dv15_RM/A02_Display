@@ -1,0 +1,1 @@
+//%attributes = {"lang":"en"} comment added and reserved by 4D.//A02_Display//20150830 Programmer's name//ログインダイアログを表示C_LONGINT($winRef)C_LONGINT($0)$winRef:=Open form window("A02_Login";Modal form dialog box;\Horizontally centered;Vertically centered)SET WINDOW TITLE("ログインダイアログ")DIALOG("A02_Login")//ウィンドウにフォームを表示するCLOSE WINDOW//ウィンドウを閉じる$0:=OK

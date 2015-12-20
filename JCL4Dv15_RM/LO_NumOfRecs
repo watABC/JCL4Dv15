@@ -1,0 +1,1 @@
+//%attributes = {"lang":"en"} comment added and reserved by 4D.//LO_NumOfRecs//20150830 Programmer's name// ログインユーザテーブルに登録されているレコード数を取得C_LONGINT($0)READ ONLY([LOGIN_USER])QUERY([LOGIN_USER];[LOGIN_USER]LO_DEL_FLAG=0)FIRST RECORD([LOGIN_USER])$0:=Records in selection([LOGIN_USER])

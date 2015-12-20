@@ -1,0 +1,1 @@
+//[--PREFIX]01_frmDefInit//method_generator [--DATE]//[--TABLE] プロセス変数宣言・初期化C_TEXT(v[--PREFIX]01_varNumOfRecs)// リストボックス用配列ARRAY BOOLEAN(v[--PREFIX]01_lst[--PREFIX];0)//リストボックス自身ARRAY [--DATATYPE](v[--PREFIX]01_lst[--FIELD];0)

@@ -1,0 +1,42 @@
+//[--PREFIX]02_Input_Dup
+//method_generator [--DATE]
+//[--TABLE] レコード複製フォーム
+
+C_LONGINT($1)//ID
+$[--PREFIX]_id:=$1
+C_POINTER($2)
+C_LONGINT($new_[--PREFIX]_id)
+C_LONGINT($0;$dlg_ok)//システム変数OKを保持
+
+//モードを渡す、フォームの［削除］ボタンを非表示にするためだったり．．
+[--PREFIX]02_DefInit 
+[--PREFIX]02_varMode_Set ("dup")
+
+READ WRITE([[--TABLE]])
+$new_[--PREFIX]_id:=[--PREFIX]_Duplicate($[--PREFIX]_id)
+[--PREFIX]02_LoadValues 
+
+$dlg_ok:=[--PREFIX]02_Display ($new_[--PREFIX]_id)//OK変数の値を保持
+If ($dlg_ok#1)
+
+//dupモードの場合は、追加したレコードを完全に削除する
+READ WRITE([[--TABLE]])
+QUERY([[--TABLE]];[[--TABLE]][--PREFIX]_ID=$new_[--PREFIX]_id)
+DELETE SELECTION([[--TABLE]])
+
+Else 
+
+//更新日をＤＢに保存
+READ WRITE([[--TABLE]])
+QUERY([[--TABLE]];[[--TABLE]][--PREFIX]_ID=$new_[--PREFIX]_id)
+[--PREFIX]02_SaveValues 
+[[--TABLE]][--PREFIX]_UPDATE_DATEMARK:=JCL_str_Datemark (Current date;Current time)
+SAVE RECORD([[--TABLE]])
+
+End if 
+
+UNLOAD RECORD([[--TABLE]])
+READ ONLY([[--TABLE]])
+
+$2->:=$new_[--PREFIX]_id//IDを返す
+$0:=$dlg_ok

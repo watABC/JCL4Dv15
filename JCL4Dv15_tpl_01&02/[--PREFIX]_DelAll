@@ -1,0 +1,1 @@
+//[--PREFIX]_DelAll//method_generator [--DATE]//[--TABLE] レコード削除READ WRITE([[--TABLE]])ALL RECORDS([[--TABLE]])DELETE SELECTION([[--TABLE]])READ ONLY([[--TABLE]])

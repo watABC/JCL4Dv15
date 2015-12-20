@@ -1,0 +1,1 @@
+//%attributes = {"shared":true,"lang":"en"} comment added and reserved by 4D.//JCL_file_WriteCRLF//20100721 wat new//ジロファイル、ファイル参照にＣＲとＬＦを書き出すC_TIME($1;$doc)$doc:=$1//ファイル参照//改行SEND PACKET($doc;Char(Carriage return))//ラインフィードSEND PACKET($doc;Char(Line feed))//ラインフィードを出力するとWindowsのメモ帳でＯＫ//JEditは情報表示でWindows改行になってしまうが、//テキストエディットで読み込みＯＫ

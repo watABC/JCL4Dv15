@@ -1,0 +1,1 @@
+//%attributes = {"lang":"en"} comment added and reserved by 4D.//A02_SetControlsValues//20150830 Programmer's name//画面のオブジェクトを制御//パスワードフィールドは、入力中にタイプした文字が見えないようにするOBJECT SET FONT(*;"vA02_fldPassword";"%password")
